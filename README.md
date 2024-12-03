@@ -1,4 +1,4 @@
-3 NODE Kafka Set-up usin KRAFT
+3 NODE Kafka Set-up using KRAFT
 
 UI using kafka UI http://localhost:8080/
 
